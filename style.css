@@ -64,7 +64,6 @@ hr {
 .image-circle {
     border-radius: 50%;
     border: 2px solid black;
-    text-align: center;
 }
 
 body {
